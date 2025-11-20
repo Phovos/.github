@@ -19,6 +19,7 @@ CommunityLinks: [r/Morphological](https://www.reddit.com/r/Morphological/) | [Ph
 NEW: [r/Quine](https://www.reddit.com/r/Quine); | [production gitter(dev-chat)](https://app.gitter.im/#/room/#production:gitter.im)
 
 > © 2024-25 Phovos https://github.com/Phovos/Morphological |  CC ND && BSD-3 | SEE LICENSE
+
 > © 2023-25 Moonlapsed https://github.com/MOONLAPSED/Cognosis | MIT/BSD-3
 
 This SDK implements Morphological Source Code exhibiting Quineic Statistical Dynamics (QSD), a computational framework where:
