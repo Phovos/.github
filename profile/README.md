@@ -2,24 +2,24 @@
 root: ".github"
 name: "README.md"
 link: "see [/profile/README.md](/profile/README.md) for the [[Single Source of Truth]]"
-version: 2.20
+version: 2.22
 ---
 # Morphological Source Code (MSC/QSD)
+
 
 **A CPython standard-library-only framework for morphological computation with hermitian type semantics**
 **Welcome to the root of the Morphological Source Code (MSC) repository!**
 
 [![Python 3.14+](https://img.shields.io/badge/python-3.14+-blue.svg)](https://www.python.org/downloads/)
 [![License: BSD-3 & CC-BY-ND](https://img.shields.io/badge/license-BSD3%20%26%20CC--BY--ND-green.svg)](LICENSE)
-[![Status: Experimental](https://img.shields.io/badge/Status-Experimental-red.svg)](https://github.com/Quineic/Source)
+[![Status: Experimental](https://img.shields.io/badge/Status-Experimental-red.svg)](https://github.com/Phovos/Morphological)
 
-CommunityLinks: [r/Morphological](https://www.reddit.com/r/Morphological/) | [Phovos@X](https://x.com/Phovso) | [Phovos@youtube](https://www.youtube.com/@phovos) | [Code of Conduct](https://github.com/Phovos/.github/blob/main/CODE_OF_CONDUCT.md)
+CommunityLinks: [r/Morphological](https://www.reddit.com/r/Morphological/) | [Phovos@X](https://x.com/Phovso) | [Phovos@youtube](https://www.youtube.com/@phovos) | [Code of Conduct](https://github.com/Phovos/.github/CODE_OF_CONDUCT.md)
 
-NEW: [r/Quine](https://www.reddit.com/r/Quine); | [production gitter(dev-chat)](https://app.gitter.im/#/room/#production:gitter.im) for this "Quineic branch", specifically 
+NEW: [r/Quine](https://www.reddit.com/r/Quine); | [production gitter(dev-chat)](https://app.gitter.im/#/room/#production:gitter.im)
 
-> © 2025 Quineic https://github.com/Quineic/ | CC ND && BSD-3 | SEE LICENSE
-
-> © 2024-25 Phovos https://github.com/Phovos/Morphologic; © 2023-25 Moonlapsed https://github.com/MOONLAPSED/Cognosis
+> © 2024-25 Phovos https://github.com/Phovos/Morphological |  CC ND && BSD-3 | SEE LICENSE
+> © 2023-25 Moonlapsed https://github.com/MOONLAPSED/Cognosis | MIT/BSD-3
 
 This SDK implements Morphological Source Code exhibiting Quineic Statistical Dynamics (QSD), a computational framework where:
 - **ByteWords** are atomic morphogens (8-bit quantum observables)
