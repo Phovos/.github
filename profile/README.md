@@ -1,26 +1,25 @@
 ---
-tags: [Morphological-Source-Code, Quineic Statistical Dynamics, holography, bulk-boundary, duality]
+tags: [Morphological-Source-Code, Quineic Statistical Dynamics, holography, motility, dynamics]
 copyright: "Ⓟ© 2026 Morphological Source Code & Quineic Statistical Dynamics"
 license-doc(s)+dist: CC BY-NC-SA 4.0
 license-code+file(s): BSD 3-Clause
 root: ".github"
 name: "README.md"
-version: 0.49.81
+version: 0.49.82
 aliases:
   - msc
   - qsd
   - quine
   - morphosemantics
-  - conformal-cohomology
-  - bulk-boundary-duality
   - morphological-source-code
   - quineic-statistical-dynamics
 topics:
   - ads/cft
   - gauge-theory
-  - morphic-operators
   - exterior-calculus
   - semantic-embeddings
+  - bulk-boundary-duality
+  - spectral&complex-analysis
   - special-conformal-transformation
 "copyright_attribution": >
   (1) © 2023-2026 Moonlapsed; https://github.com/MOONLAPSED/cognosis
