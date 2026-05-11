@@ -5,7 +5,7 @@ license-doc(s)+dist: CC BY-NC-SA 4.0
 license-code+file(s): BSD 3-Clause
 root: ".github"
 name: "README.md"
-version: 0.49.82
+version: 0.49.83
 aliases:
   - msc
   - qsd
@@ -69,6 +69,9 @@ The result: A system where **computation is measurement**, **types are boundary 
 
 > In a dual-representational phase/state space—trivially a Hilbert Space, the AdS/CFT correspondence manifests as the 'special conformal twist' operator: the 'spinor' in boundary-bulk correspondence.
 
+<a href="https://github.com/Morphological-Source-Code">Morphological Source Code & Quineic Statistical Dynamics</a> © 2024-2026 licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a> by <a href="https://github.com/Phovos">Phovos</a> <img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
+
+<a href="https://github.com/MOONLAPSED/cognosis">Morphological Source Code</a> © 2023-2026 licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en">CC BY-NC-SA 4.0</a> by <a href="https://github.com/MOONLAPSED/cognosis">MOONLAPSED</a>.<img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" style="max-width: 1em;max-height:1em;margin-left: .2em;">
 
 ## The Shape of Information
 
