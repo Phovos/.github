@@ -146,13 +146,12 @@ linklist:
 
 ---
 
+# Quantum Informatic Foundations (Morphological 'Grassmanian', and related intellectual thrusts)
 ## The Shape of Information
 
 Binary information, it seems, is not just a string of 0s and 1s. It's a morphological, multi-competency substrate of form and flux that evolves within the constraints and symmetry(s) of time, space, and energy. In the same way that language molds our cognition, information molds our universe. It's the invisible hand shaping the foundations of reality, computation, and emergence. A continuous (analytical) process of (synthetic) becoming, where each transition is not deterministic but probabilistic, tied to the very shape and nature of quantum reality, itself. W.V.O Quine called for a field theory that incorporates the degrees of freedom afforded by the intellectual tradition, in the form of language, not just logic; and founded this field, in the West.
 
 ### Probabalistic statistical mechanics, and the thermodynamics of information
-
-#### Quantum Informatic Foundations
 
 Information and inertia form an intricate "shape" within the cosmos, an encoded structure existing beyond our 3+1D spacetime. Information is not just an abstraction; it is a fundamental physical phenomenon intertwined with the fabric of reality itself. It shapes the emergence of complexity, language, and cognition. The old concept of 'aether'; or the "medium" that Maxwell's Extended Equations re-posed as a field ontology; similary, so shall we define the field ontology of an 'aether'. To do this work, the Shannon Channel is treated as a special morphological case, consistent because it is consistent to a thinker like us, not because it is universally correspondent instead, MSC&QSD use an actual (special conformal) universal correspondence, to power the M&N Aether; the ADS/CFT bulk/boundary correspondence of a Holographic non-parabolic, thermodynamic universe. The 'unification' of forces, in the model, is the "Mobius (shaped) Turing Tape" that forms at the boundary, in correspondence with ill-founded (no measure for sigma algebra) and unobservable bulk states. 'Gravity', then, is the intrisic curvature flux of the, indeed intensive, morphologic, of an otherwise Maxwellian theorem; phenomenologically encoded 'all at once' the whole Mobius at-a-time (There is no 'halting' in an all-at-once information topology; knowing when to halt is the extrensic and, indeed, extensive propogation of intensive DOF (of a bulk).
 
